@@ -12,6 +12,7 @@
     "vite-plugin-restart": "^0.4.2"
   },
   "dependencies": {
+    "vite": "^6.2.2",
     "lil-gui": "^0.20.0",
     "three": "^0.174.0"
   }
